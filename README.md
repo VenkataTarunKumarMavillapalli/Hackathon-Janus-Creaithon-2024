@@ -1,13 +1,8 @@
 # Hackathon-Janus-Creaithon-2024
-Thank you for the detailed information — this gives a comprehensive view of your project. Below is a professional and well-structured `README.md` file tailored for your CRE-AI-THON submission.
-
 ---
-
 ```markdown
 # ⚡ Designing the Future of Energy
-
 A cross-platform solution for energy monitoring, community energy resource (ERC) management, and sustainability analytics — built during the **CRE-AI-THON** Hackathon organized by Janus Srl.
-
 ---
 
 ## 🚀 Project Overview
