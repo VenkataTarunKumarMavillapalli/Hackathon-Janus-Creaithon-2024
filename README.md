@@ -3,7 +3,7 @@
 ```markdown
 # ⚡ Designing the Future of Energy
 A cross-platform solution for energy monitoring, community energy resource (ERC) management, and sustainability analytics — built during the **CRE-AI-THON** Hackathon organized by Janus Srl.
-
+```
 ---
 
 ## 🚀 Project Overview
@@ -32,7 +32,7 @@ This project consists of two integrated components:
 - **Sustainability Metrics** – CO₂ tracking and emissions reports.
 
 ---
-
+```
 ## 🧩 Tech Stack
 
 | Layer        | Technologies                             |
