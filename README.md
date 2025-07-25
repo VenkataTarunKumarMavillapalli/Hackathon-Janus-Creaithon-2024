@@ -1,9 +1,9 @@
 # Hackathon-Janus-Creaithon-2024
 ---
-```
+
 # ⚡Designing the Future of Energy
 A cross-platform solution for energy monitoring, community energy resource (ERC) management, and sustainability analytics — built during the **CRE-AI-THON** Hackathon organized by Janus Srl.
-```
+
 ---
 
 ## 🚀 Project Overview
