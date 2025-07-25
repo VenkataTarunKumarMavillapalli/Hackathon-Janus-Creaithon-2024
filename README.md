@@ -128,5 +128,3 @@ Mentored by: **Dr. Flavio Lombardi**
 ---
 
 > **Note**: This project was developed during the CRE-AI-THON Hackathon as a prototype and proof of concept. It may require further optimization and production-hardening.
-
-```
