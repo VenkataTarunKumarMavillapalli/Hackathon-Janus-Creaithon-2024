@@ -3,6 +3,7 @@
 ```markdown
 # ⚡ Designing the Future of Energy
 A cross-platform solution for energy monitoring, community energy resource (ERC) management, and sustainability analytics — built during the **CRE-AI-THON** Hackathon organized by Janus Srl.
+
 ---
 
 ## 🚀 Project Overview
@@ -44,22 +45,6 @@ This project consists of two integrated components:
 | DB & Logic   | Pandas, Numpy, Session State (Streamlit) |
 
 ---
-
-## 📁 Project Structure
-
-### 📱 iOS App (SwiftUI)
-```
-
-ERCManagerApp.swift
-├── ContentView\.swift
-├── Chart.swift
-├── Coordinator.swift
-├── Profile.swift
-├── PresumerMain.swift
-├── ConsumerMain.swift
-├── ConsumptionList.swift
-├── ConsumptionCircle.swift
-└── Models.swift
 
 ```
 
@@ -114,14 +99,6 @@ The chatbot integrates OpenAI's GPT to provide conversational support. It can be
 
 ---
 
-## 🖼️ Screenshots
-
-| iOS App                                        | Streamlit Dashboard                              |
-| ---------------------------------------------- | ------------------------------------------------ |
-| ![SwiftUI Screenshot](path/to/screenshot1.png) | ![Streamlit Screenshot](path/to/screenshot2.png) |
-
----
-
 ## 🧑‍💻 Team Members
 
 * Venkata Tarun Kumar Mavillapalli
@@ -150,24 +127,6 @@ Mentored by: **Dr. Flavio Lombardi**
 
 ---
 
-## 📩 Contact
-
-For questions, suggestions, or collaboration:
-📧 [hackathon@janustech.it](mailto:hackathon@janustech.it)
-
----
-
 > **Note**: This project was developed during the CRE-AI-THON Hackathon as a prototype and proof of concept. It may require further optimization and production-hardening.
 
-```
-
----
-
-Let me know if you'd like:
-- A PDF export of this `README.md`
-- GitHub-flavored markdown
-- Link placeholders replaced with real URLs
-- Additional sections like "Future Improvements" or "License"
-
-Just say the word!
 ```
